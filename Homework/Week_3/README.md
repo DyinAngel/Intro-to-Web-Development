@@ -1,9 +1,9 @@
 # HOMEWORK - Due Thursday, Week 4
 
-## Files in the Repo
+## Files in the Repo:
 
-* item 1 Files and Resources required for recipe site
-* item 2 Docmentation in this README file for recipe site
+* Files and Resources required for recipe site
+* Docmentation in this README file for recipe site
 
 ## Motivation
 
