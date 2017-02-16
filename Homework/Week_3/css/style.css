@@ -96,3 +96,8 @@ footer {
     display: block;
     text-align: center;
 }
+
+footer img {
+    width: 30px;
+    height: 30px;
+}
