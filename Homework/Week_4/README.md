@@ -22,10 +22,14 @@ https://www.pinterest.com/dyinangel/resume-website/
 * Standard HTML
  * Navigation
  * Anchor tags for varying pages
+ * Shadows
+ * Boxes
+ * Sidebars
 
 ### Concepts Needed
 
 * How to add audio/playlist to site
+* Slideshow
 * Jquery to make transition between pages a bit nicer
 
 ### Plans for the future
