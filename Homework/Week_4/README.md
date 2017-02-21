@@ -14,7 +14,7 @@ https://www.pinterest.com/dyinangel/resume-website/
 
 ### Sitemap
 
-![alt text](https://github.com/MahindraPersaud/Intro-to-Web-Development/blob/master/Homework/Week_4/img/sitemap.png "site map")
+![alt text](https://github.com/MahindraPersaud/Intro-to-Web-Development/blob/master/Homework/Week_4/img/sitemap.PNG "site map")
 
 ### Wireframe
 
