@@ -12,6 +12,10 @@
 
 https://www.pinterest.com/dyinangel/resume-website/
 
+### Sitemap
+
+![alt text](https://github.com/MahindraPersaud/Intro-to-Web-Development/blob/master/Homework/Week_4/img/sitemap.png "site map")
+
 ### Wireframe
 
 ![alt text](https://github.com/MahindraPersaud/Intro-to-Web-Development/blob/master/Homework/Week_4/img/wireframe.png "Home Page")
@@ -30,6 +34,9 @@ https://www.pinterest.com/dyinangel/resume-website/
 
 * How to add audio/playlist to site
 * Slideshow
+* Decide how I want interaction with users
+* Figure out how to create fluid movement throughout the site
+ * I don't want it to be flat and stationary. Instead I want to see if I can add some animations
 * Jquery to make transition between pages a bit nicer
 
 ### Plans for the future
