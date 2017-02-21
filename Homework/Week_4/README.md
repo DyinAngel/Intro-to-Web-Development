@@ -14,7 +14,7 @@ https://www.pinterest.com/dyinangel/resume-website/
 
 ### Wireframe
 
-![alt text](https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png "Logo Title Text 1")
+![alt text](https://github.com/MahindraPersaud/Intro-to-Web-Development/blob/master/Homework/Week_4/img/wireframe.png "Home Page")
 
 ### Concepts Covered
 
