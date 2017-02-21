@@ -12,6 +12,10 @@
 
 https://www.pinterest.com/dyinangel/resume-website/
 
+### Wireframe
+
+![alt text](https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png "Logo Title Text 1")
+
 ### Concepts Covered
 
 * Basic CSS
@@ -23,3 +27,13 @@ https://www.pinterest.com/dyinangel/resume-website/
 
 * How to add audio/playlist to site
 * Jquery to make transition between pages a bit nicer
+
+### Plans for the future
+
+* Each project in Language will link to the project
+* Each work experience will link to where I worked and who I worked for, what I did there, what I learned, what I experienced.
+* Each Hobby will link to slideshows with small little captions of where I was and a bit about the image that is displayed. 
+* Hobby page will have an additional hobbies section at the bottom with additional hobbies not added into the main page.
+* Create a game that lets the user learn about me as they play. Will be done much much later and provide user with the option “Do you wanna play a game?”
+
+http://www.rleonardi.com/
