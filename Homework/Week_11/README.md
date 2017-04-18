@@ -16,12 +16,12 @@
 
 ### Sitemap
 
-![alt text](https://github.com/MahindraPersaud/Intro-to-Web-Development/blob/master/Homework/Week_4/img/sitemap.PNG "site map")
+![alt text](https://github.com/MahindraPersaud/Intro-to-Web-Development/blob/master/Homework/Week_11/img/sitemap.PNG "site map")
 
 ### Wireframe
 
-![alt text](https://github.com/MahindraPersaud/Intro-to-Web-Development/blob/master/Homework/Week_4/img/wireframe1.png "Home Page")
-![alt text](https://github.com/MahindraPersaud/Intro-to-Web-Development/blob/master/Homework/Week_4/img/wireframe2.png "Home Page")
+![alt text](https://github.com/MahindraPersaud/Intro-to-Web-Development/blob/master/Homework/Week_11/img/wireframe1.png "Home Page")
+![alt text](https://github.com/MahindraPersaud/Intro-to-Web-Development/blob/master/Homework/Week_11/img/wireframe2.png "Home Page")
 
 ### Concepts Covered
 
