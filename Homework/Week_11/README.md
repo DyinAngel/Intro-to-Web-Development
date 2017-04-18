@@ -20,8 +20,8 @@
 
 ### Wireframe
 
-![alt text](https://github.com/MahindraPersaud/Intro-to-Web-Development/blob/master/Homework/Week_11/img/wireframe1.png "Home Page")
-![alt text](https://github.com/MahindraPersaud/Intro-to-Web-Development/blob/master/Homework/Week_11/img/wireframe2.png "Home Page")
+![alt text](https://github.com/MahindraPersaud/Intro-to-Web-Development/blob/master/Homework/Week_11/img/wireframe1.jpg "Home Page")
+![alt text](https://github.com/MahindraPersaud/Intro-to-Web-Development/blob/master/Homework/Week_11/img/wireframe2.jpg "Home Page")
 
 ### Concepts Covered
 
