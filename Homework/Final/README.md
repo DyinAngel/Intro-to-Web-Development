@@ -1,4 +1,4 @@
-# Midterm
+# Final
 http://mahindrapersaud.me/
 
 ## Concept/Theme

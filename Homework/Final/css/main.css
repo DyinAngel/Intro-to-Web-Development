@@ -1415,8 +1415,7 @@ header .logo a {
 
 .popup-modal .link-box a:hover {
     background: #800000;
-    color: #000000
-    border: none;
+    color: #000000 border: none;
 }
 
 @media only screen and (max-width:600px) {
@@ -1432,38 +1431,43 @@ header .logo a {
 
 /* overlay at start */
 
-.mfp-fade .mfp-bg {
+.mfp-fade.mfp-bg {
     opacity: 0;
+    -webkit-transition: all 0.15s ease-out;
+    -moz-transition: all 0.15s ease-out;
+    transition: all 0.15s ease-out;
     transition: all 0.3s ease-in-out;
 }
 
 
 /* overlay animate in */
 
-.mfp-fade .mfp-bg .mfp-ready {
+.mfp-fade.mfp-bg.mfp-ready {
     opacity: .9;
 }
 
 
 /* overlay animate out */
 
-.mfp-fade .mfp-bg .mfp-removing {
+.mfp-fade.mfp-bg.mfp-removing {
     opacity: 0;
 }
 
 
 /* content at start */
 
-.mfp-fade .mfp-wrap .mfp-content {
+.mfp-fade.mfp-wrap .mfp-content {
     opacity: 0;
     transform: translateY(-100%);
+    -webkit-transition: all 0.15s ease-out;
+    -moz-transition: all 0.15s ease-out;
     transition: all 0.3s ease-in-out;
 }
 
 
 /* content animate in */
 
-.mfp-fade .mfp-wrap .mfp-ready .mfp-content {
+.mfp-fade.mfp-wrap.mfp-ready .mfp-content {
     opacity: 1;
     transform: translateY(0);
 }
@@ -1471,7 +1475,7 @@ header .logo a {
 
 /* content animate out */
 
-.mfp-fade .mfp-wrap .mfp-removing .mfp-content {
+.mfp-fade.mfp-wrap.mfp-removing .mfp-content {
     opacity: 0;
     transform: translateY(-100%);
 }
